@@ -1,2 +1,4 @@
-# NBTApi-FancyMenu-Addon
+# NBTApi FancyMenu Addon
 An add-on for FancyMenu that adds support for my NBTApi mod.
+
+NBTApi - https://github.com/SeFort/NBTApi
