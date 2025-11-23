@@ -77,11 +77,11 @@ public class SetNBTAction extends Action {
         return new Text[] {
                 Text.literal("Action to change values in NBT"),
                 Text.literal(""),
-                Text.literal("Format: world|path|value|type"),
+                Text.literal("Format: world|path|value"),
                 Text.literal(""),
                 Text.literal("Examples:"),
                 Text.literal("My World|Data.LevelName|New Name"),
-                Text.literal("My World|Data.GameType|1|int")
+                Text.literal("My World|Data.GameType|1")
         };
     }
 
